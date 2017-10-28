@@ -4,4 +4,7 @@ Startups that I am following! If you find it useful, please add suggestions for 
 
 ## Startups
 Dishcraft http://www.dishcraft.com/
+
 Kindred http://Kindred.ai
+
+Hanson Robotics http://www.hansonrobotics.com/
